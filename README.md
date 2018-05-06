@@ -8,7 +8,7 @@ In this assignment you will develop “MessageMe.” The App allows the user to 
 receive messages from other users. The app uses Firebase to manage the user
 authentication and mailbox management.
 
-**Part A: Login (10 points)**
+# Part A: Login (10 points)
 This is the launcher screen of you app. The wireframe is shown in Figure 1(a). The
 requirements are as follows:
 
@@ -23,7 +23,7 @@ that the login was not successful.
 2. Clicking the “New User?” button should start the Signup Screen Figure 1(b), and
     finish the login Screen.
 
-**Part B: SignUp (10 points)**
+# Part B: SignUp (10 points)
 Create the Signup screen to match Figure 1(b), with the following requirements:
 
 1. Clicking the “Cancel” button should finish the Signup Screen and start the Login
@@ -37,7 +37,7 @@ message received from the Firebase Authentication API.
 b) If the signup is successful, then start the Chat Screen and finish the Signup
 Screen.
 
-**Part B: Loading and Parsing Messages (Inbox Activity) (40 Points)**
+# Part B: Loading and Parsing Messages (Inbox Activity) (40 Points)
 The Inbox activity should display the messages sent to the currently logged in
 user. The requirements are as follows:
 
