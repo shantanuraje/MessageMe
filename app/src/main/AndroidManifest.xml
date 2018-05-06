@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".InboxActivity" />
+        <activity android:name=".ReadMessageActivity" />
+        <activity android:name=".ComposeMessageActivity"></activity>
     </application>
 
 </manifest>
